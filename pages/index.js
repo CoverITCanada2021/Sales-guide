@@ -1,1 +1,0 @@
-<canvas code inserted here>
